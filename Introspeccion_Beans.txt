@@ -1,0 +1,54 @@
+java
+Anexos
+
+Introspeccion
+	
+	¿Que es introspecion?
+		en la vida rela, es la observacion que hace una persona sobre su propia conciencia 
+			o sus estados de animo pararefelexionar sobre ellos.
+
+		en POO: es la capacidad de un programa de examinarse a si mismo viendo las capacidades
+			de los objetos creados en tiempo de ejecucion, sus propiedades y metodos para poder
+			modificarlos(modificacion en POO = REFLEXION)
+
+	CLASES UTILES EN INSTROSPECION
+		CLASS
+		CONSTRUCTOR
+		MODIFIER
+		FIELD
+
+
+/*
+*
+* JAVA BEANS
+*
+*
+*/
+
+-------¿QUE ES JAVA BEANAS?
+
+UN "BEAN" ES UN COMPONENTE CREADO EN JAVA QUE PUEDE SER REUTILIZADO 
+		Y MANIPULADO VISUALMENTE DESDE UN ENTRONO DE DESARROLLO (ECLIPSE, NETBEANS, INTELLIJI)
+
+UNA VEZ QUE TIENES ACCESO AL "BEAN", LO UTILIZARAS ARRASTRANDO EL COMPONENTE HASTA UNA INTERFFAZ GRAFICA
+DESPUES PODRAS ADAPTARLO A TUS NECESIDADES CON CUADORS DE DIALOGO
+
+
+/*
+** DOCUMENTACION DE NUESTROS PROYECTOS
+**
+****
+*
+*/
+
+SE DEBE UTILIZAR LA HERRAMIENTA JAVADOC.EXE DEL JDK
+	-COMENTARIO gENERAL
+	-- 	/*..............   */ 
+		SIEMPRE HA DE IR JUSTO ANTES DEL ELEMTNO A COMENTAR
+
+	-- EQUTIQUETAS EN COMENTARIOS
+		@AUTHOR: ESPECIFICA EL AUTOR DE LA CLASE O METODO
+		@PARAM: ESPECIFICA PARAMETROS DE METODOS
+		@RETURN: ESPECIFICA TIPO DE DATO QUE DEVUELVE UN METODO
+		@THROWS: ESPECIFICA QUE EL METODO LANZA UNA EXCEPCION
+

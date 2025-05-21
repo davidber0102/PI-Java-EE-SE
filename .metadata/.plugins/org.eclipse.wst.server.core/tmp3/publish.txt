@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 19 17:43:50 CST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\david.bernal\\.m2\\repository\\org\\springframework\\spring-web\\5.3.39\\spring-web-5.3.39.jar=C\:\\ApacheServer\\Tomcat 9.0\\wtpwebapps\\PrimerProyecto_SpringRest\\WEB-INF\\lib\\spring-web-5.3.39.jar
+org.eclipse.jst.jee.server\:PrimerProyecto_SpringRest=C\:\\ApacheServer\\Tomcat 9.0\\wtpwebapps\\PrimerProyecto_SpringRest

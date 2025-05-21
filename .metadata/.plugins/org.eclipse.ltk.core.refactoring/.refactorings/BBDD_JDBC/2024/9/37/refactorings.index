@@ -1,0 +1,10 @@
+1725925080607	Move compilation unit
+1725925404930	Rename local variable 'stSecc'
+1725925668898	Rename field 'rsSecc'
+1725926280343	Infer generic type arguments
+1725992877440	Rename type 'CargaSecciones'
+1725992960333	Rename type 'CagaSeccionController'
+1725994461929	Rename field 'precioLista'
+1725994511170	Rename field 'nomProducto'
+1725995255046	Rename type 'CagaMenusController'
+1726098970335	Delete element

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<WatchedResource>WEB-INF/web.xml</WatchedResource>
+ 
+    
+    <Resource 
+    name="jdbc/Productos" 
+              auth="Container"
+              type="javax.sql.DataSource"
+              username="root"
+              password="dBd#C4rt0$202A"
+              driverClassName="com.mysql.jdbc.Driver"
+              maxActive="15"
+              maxIdle="3"
+              maxWait="1000"
+              removeAbandoned = "true"
+              logAbandoned = "true"
+              removeAbandonedTimeout="60"
+              testWhileIdle="true"
+              timeBetweenEvictionRunsMillis="300000"
+              url="jdbc:mysql://127.0.0.1:3306/proyecto_jsp"/>
+              
+   
+</Context>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ClasesPropias.hERENCIASgENERICOS&apos; to &apos;HerenciaGenericos&apos;&#x0D;&#x0A;- Original project: &apos;Programacion_Generica&apos;&#x0D;&#x0A;- Original element: &apos;ClasesPropias.hERENCIASgENERICOS&apos;&#x0D;&#x0A;- Renamed element: &apos;ClasesPropias.HerenciaGenericos&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;hERENCIASgENERICOS&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ClasesPropias{hERENCIASgENERICOS.java[hERENCIASgENERICOS" matchStrategy="1" name="HerenciaGenericos" qualified="false" references="true" similarDeclarations="false" stamp="1723849998181" textual="false" version="1.0"/>
+</session>

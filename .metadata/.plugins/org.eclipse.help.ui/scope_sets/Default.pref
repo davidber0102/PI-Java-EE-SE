@@ -1,0 +1,5 @@
+#Tue Oct 22 11:59:53 CST 2024
+__DEFAULT__=true
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true

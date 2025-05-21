@@ -1,0 +1,5 @@
+package mx.davdev.com.PrimerProyecto_SpringRest.rest;
+
+public class EmpleadoNoEncontradoExcepcion {
+
+}

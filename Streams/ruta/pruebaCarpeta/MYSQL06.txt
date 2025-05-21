@@ -1,0 +1,33 @@
+dBd#C4rt0$202A
+
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL8Dialect
+spring.jpa.hibernate.naming.physical-strategy=org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.show_sql=true
+spring.jpa.properties.hibernate.use_sql_comments=true
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.properties.hibernate.type=trace
+spring.batch.initialize-schema=always
+spring.jpa.hibernate.naming.physical-strategy=org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+
+spring.data.web.pageable.page-parameter=pagina
+spring.data.web.pageable.size-parameter=tamano
+spring.data.web.sort.sort-parameter=orden
+
+
+{
+"nombre_medico": "Rodrigo Loepz",
+"email_medico": "rodrigo.lopez@vool.med",
+"documento_medico": "123456",
+"telefono_medico": "55858522",
+"especialidad_medico": "ORTOPEDIA",
+"direccion": {
+			"calle": "calle 1",
+			"distrito": "distrito 1", 		
+			"ciudad": "Lima",
+			"numero": "1",
+			"complemento": "a"
+		}
+}

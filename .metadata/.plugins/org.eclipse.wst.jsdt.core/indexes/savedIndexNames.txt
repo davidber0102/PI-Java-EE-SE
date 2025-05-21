@@ -1,0 +1,21 @@
+INDEX VERSION 1.4+C:\Cursos\Java_Pildoras\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4198969024.index
+622108182.index
+4257607609.index
+1328774063.index
+1373416845.index
+1106555391.index
+3159405921.index
+3165615668.index
+3754179778.index
+3582855696.index
+2106557805.index
+3686790159.index
+1045909042.index
+1638889842.index
+1289409880.index
+1753877569.index
+3535683835.index
+3365582793.index
+3848719400.index
+1004398030.index
